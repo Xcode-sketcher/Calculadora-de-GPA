@@ -10,9 +10,14 @@ namespace Calculadora_de_GPA.Avaliacao
         private notas quantidadeNotas = new notas();
         public static string CalcularMedia(int[] notas)
         {
+            
             int somaSomada = 0;
             foreach (int soma in notas)
             {
+                if (soma > 100 || soma < 0)
+                {
+                    return "Fora do intervalo dee notas. Utilize valores entre 0-100";
+                }
                 somaSomada += soma;
             }
 
