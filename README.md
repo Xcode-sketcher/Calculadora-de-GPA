@@ -1,15 +1,15 @@
 # Calculadora de GPA
 
 Projeto desenvolvido em C# para calcular o GPA (Grade Point Average) com base nas notas das disciplinas.
-em um console.
+Em seguida, o GPA calculado √© exibido no console.
 
-Este projeto foi criado como parte de um exercÌcio de aprendizado em C#.
+Este projeto foi criado como parte de um exerc√≠cio de aprendizado em C#.
 
-Disponibilizado sob a licenÁa MIT.
+Disponibilizado sob a licen√ßa MIT.
 ## Funcionalidades
-- C·lculo do GPA com base nas notas fornecidas.
-- ExibiÁ„o do GPA calculado no console.
-- ValidaÁ„o b·sica de entrada para garantir que as notas estejam dentro do intervalo v·lido (0-100).
+- C√°lculo do GPA com base nas notas fornecidas.
+- Exibi√ß√£o do GPA calculado no console.
+- Valida√ß√£o b√°sica de entrada para garantir que as notas estejam dentro do intervalo v√°lido (0-100).
 
-### ExercÌcio disponivel em:
+### Exerc√≠cio disponivel em:
 https://learn.microsoft.com/pt-br/training/modules/csharp-write-first/
